@@ -8,3 +8,13 @@ maps,  and  associative  arrays)
 Formally,  MongoDB  documents  are BSON documents.   BSON  is  a  binary  representation  of JSON with  additional  type  information. 
 MongoDB stores all documents in collections.  A collection is a group of related documents that have a set of shared common indexes.
 Collections are analogous to a table in relational databases
+
+Relational DB -> NOSQL DB
+
+Table -> Collection
+
+Row  -> Document
+
+Column -> Field
+
+Relationships -> Linking and Embedding Documents
