@@ -27,3 +27,6 @@ momgo db creates an id field which is used to uniquely identify stored data
 
 # to drop a collection
 db.name_of_collection.drop()
+
+http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
+Course on udacity Data Wrangling with MongoDB 
