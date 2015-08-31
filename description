@@ -18,3 +18,12 @@ Row  -> Document
 Column -> Field
 
 Relationships -> Linking and Embedding Documents
+
+Why mongo db?
+- flexible schema (will have fields that might not be consistent) 
+- oriented towards programmers
+- flexible deployment, one user or multiple users
+momgo db creates an id field which is used to uniquely identify stored data
+
+# to drop a collection
+db.name_of_collection.drop()
