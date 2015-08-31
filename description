@@ -1,3 +1,6 @@
+
+http://docs.mongodb.org/master/MongoDB-crud-guide.pdf
+
 MongoDB  stores  data  in  the  form  of documents, which  are  JSON-like  field  and  value  pairs.
 Documents  are analogous  to  structures  in  programming  languages  that  associate  keys  with  values  (e.g.    dictionaries,  hashes,
 maps,  and  associative  arrays)
