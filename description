@@ -1,0 +1,7 @@
+MongoDB  stores  data  in  the  form  of documents, which  are  JSON-like  field  and  value  pairs.
+Documents  are analogous  to  structures  in  programming  languages  that  associate  keys  with  values  (e.g.    dictionaries,  hashes,
+maps,  and  associative  arrays)
+
+Formally,  MongoDB  documents  are BSON documents.   BSON  is  a  binary  representation  of JSON with  additional  type  information. 
+MongoDB stores all documents in collections.  A collection is a group of related documents that have a set of shared common indexes.
+Collections are analogous to a table in relational databases
