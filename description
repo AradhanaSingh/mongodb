@@ -1,6 +1,3 @@
-
-http://docs.mongodb.org/master/MongoDB-crud-guide.pdf
-
 MongoDB  stores  data  in  the  form  of documents, which  are  JSON-like  field  and  value  pairs.
 Documents  are analogous  to  structures  in  programming  languages  that  associate  keys  with  values  (e.g.    dictionaries,  hashes,
 maps,  and  associative  arrays)
@@ -28,5 +25,7 @@ momgo db creates an id field which is used to uniquely identify stored data
 # to drop a collection
 db.name_of_collection.drop()
 
+Source: 
+http://docs.mongodb.org/master/MongoDB-crud-guide.pdf
 http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
 Course on udacity Data Wrangling with MongoDB 
